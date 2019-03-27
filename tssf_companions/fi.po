@@ -1,0 +1,446 @@
+#. extracted from TSSF_COMPANIONS_EN.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-21 15:38+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+
+#: TSSF_COMPANIONS_EN.txt:2
+msgid "The Companions Of The Society Of St. Francis"
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:4
+msgid "Who, What are the Companions of the Society of St. Francis"
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:6
+msgid ""
+"The Society of St. Francis is a religious community of men and women whose "
+"rule of life is based on that of St Francis of Assisi, who lived a life of "
+"absolute poverty, in love with Jesus Christ the incarnate Son of God in the "
+"service of all creation."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:8
+msgid ""
+"A Companion is one who accompanies: The companions of the Society of St. "
+"Francis are those who, in the course of their Christian journey have met or "
+"heard of the Sisters and Brothers , and have a desire to accompany them in "
+"the way of Christian commitment."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:10
+msgid ""
+"While they do not wish, or are not ina position to live a life in community, "
+"companions wish to support those who have been called to this way of life."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:12
+msgid ""
+"A Companion is one who prays: The companions of the Society of St. Francis "
+"are encouraged to deepen their spiritual life through prayer."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:14
+msgid ""
+"Prayer is the chief means by which they journey together with the Sisters "
+"and Brothers, for it is out of their regular prayer that the society gains "
+"much strength."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:16
+msgid ""
+"To assist them in their prayer for the Society throughout the world, "
+"companions are encouraged to subscribe to the Society’s publication "
+"“Franciscan,” published three times a year."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:18
+msgid ""
+"This magazine contains lively and interesting articles on a wide variety of "
+"subjects."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:20
+msgid ""
+"It also gives news of Sisters and Brothers throughout the world, and "
+"includes intercession lists of members and some of their engagements."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:22
+msgid ""
+"Companions have their own publication which is produced by them and comes "
+"free twice a year."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:24
+msgid ""
+"A Companion is one who serves: The companions are encouraged in active "
+"service of those in need and some feel drawn to help or support a project or "
+"particular ministry of one of the Society’s houses."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:26
+msgid "This help is gratefully accepted."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:28
+msgctxt "TSSF_COMPANIONS_EN.txt:28"
+msgid ""
+"In some areas Companions meet together for fellowship, prayer and mutual "
+"support."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:30
+msgid ""
+"Meetings are not obligatory but are valuable in the exchange of ideas and "
+"thoughts of those following the same commitment and service."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:32
+msgid ""
+"A Companion is one who seeks: The companions are encouraged to read and "
+"study the scriptures and to strengthen their spiritual life."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:34
+msgid "The four obligations set out in this leaflet are meant to assist them."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:36
+msgid ""
+"They are also encouraged to visit the Sisters and Brothers who have a number "
+"of houses throughout the U.K. Some of these houses have guest accommodation "
+"where people may stay, either singly, or as a group, for rest and "
+"relaxation, or a retreat, for meeting or to study or just to get to know "
+"members of the Society."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:38
+msgid ""
+"Some of the houses have special events or open days which companions are "
+"always welcome to attend."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:40
+msgid ""
+"How to become a Companion: If when you have read this leaflet and prayed "
+"about it, you decide that you would like to become a Companion then:"
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:42
+msgid ""
+"1. Complete the slip below and send it together with a 2\" Class large "
+"letter stamp to the Secretary of the Companions."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:44
+msgid ""
+"2. You will then receive an admission card, a franciscan Magazine "
+"Subscription form and other useful information."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:46
+msgid ""
+"3. Your vicar in your parish Church, or a Sister or Brother in a Society "
+"house may perform the admission service."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:48
+msgid ""
+"They may have lapel badges for you to buy and use during the service if you "
+"would like one."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:50
+msgid ""
+"Otherwise they can be purchased from the Secretary of the Companions once "
+"the admission card has been received."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:52
+msgid ""
+"4. When you have been admitted as a Companion, the person admitting "
+"completes the form on the admission card and returns it to the Secretary of "
+"the Companions."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:54
+msgid ""
+"5. On receipt of the completed admission card, as a Companion you may "
+"request a lapel badge, if you did not receive one at your admission service."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:56
+msgid ""
+"(Details of how to do this will be included with the Welcome letter sent "
+"upon receipt of the completed admission card)."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:58
+msgid ""
+"6. Unless you already subscribe, the completed franciscan magazine "
+"subscription form should be sent to the Subscriptions Secretary at the "
+"address on the franciscan subscription form."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:60
+msgid "The Secretary for the Companions:"
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:62
+msgid "38 Drury Street, Metheringham, Lincs, LN4 3EZ"
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:64
+msgid "I would like to admitted as a Companion of the Society of St. Francis"
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:72
+msgid ""
+"Name:\n"
+"Address:\n"
+"Post Code:\n"
+"Telephone:\n"
+"Email:\n"
+"I hope to be admitted by:\n"
+"Address:"
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:74
+msgid "What Do You Have To Do?"
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:76
+msgid ""
+"A Companion promised to keep the obligations and is encouraged to draw up a "
+"rule of life based on the guiding principles."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:78
+msgid "Obligations"
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:80
+msgid ""
+"1. To pray regularly for the Society of St. Francis and support its life and "
+"work through alms giving."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:82
+msgid "2. To aim at simplicity of life, avoiding all waste and extravagance."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:84
+msgid "3. To help those in need."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:86
+msgid "4. Tostrive to bring others to the knowledge and life of Christ."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:88
+msgid "Guiding Principles"
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:90
+msgid "1. To pray to God every morning and evening."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:92
+msgid "2. To read some verses of the Bible each day."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:94
+msgid ""
+"3. To regard the Eucharist as the central act of Christian worship and to "
+"have a rule of regular communion."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:96
+msgid "4. To use sacramental confession when conscience requires."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:98
+msgid ""
+"5. To devote some portion of one’s money, on a systematic and thought out "
+"plan, for the help of the needy and the work of God’s Church."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:100
+msgid ""
+"6. To be ready to undertake some service for others in the sphere of one’s "
+"life and work."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:102
+msgid ""
+"7. To deepen one’s knowledge of God and one’s faith through religious "
+"reading retreats and conferences as opportunity allows."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:104
+msgid ""
+"6. To review one’s rule of life on or about the feast of St. Francis ("
+"October 4th) each year."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:106
+msgid "A Prayer"
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:108
+msgid "Lord, make me an instrument of your peace."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:110
+msgid "Where there is hatred, let me sow love;"
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:112
+msgid "where there is injury, pardon;"
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:114
+msgid "where there is doubt, faith;"
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:116
+msgid "where there is despair, hope;"
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:118
+msgid "where there is darkness, light;"
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:120
+msgid "and where there is sadness, joy."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:122
+msgid "O Divine Master, grant that I may not so much seek"
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:124
+msgid "to be consoled as to console;"
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:126
+msgid "to be understood as to understand;"
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:128
+msgid "to be loved as to love."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:130
+msgid "For it is in giving that we receive;"
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:132
+msgid "it is in pardoning that we are pardoned;"
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:134
+msgid "and it is in dying that we are born to eternal life."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:136
+msgid "Amen."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:138
+msgid "Companions"
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:140
+msgid ""
+"The Companions of the Society of Saint Francis are those who, in the course "
+"of their Christian journey, have met or heard of the Sisters and Brothers, "
+"and have a desire to accompany them in the way of Christian commitment."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:142
+msgid ""
+"While they do not wish, or are not in a position to live a life in "
+"community, Companions wish to support those who have been called to this way "
+"of life."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:144
+msgid ""
+"A COMPANION IS ONE WHO PRAYS: Companions are encouraged to deepen their "
+"spiritual life through prayer and meditation."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:146
+msgid ""
+"Prayer is the chief means by which they journey with the Sisters and "
+"Brothers, for it is out of their regular prayer that the Society gains much "
+"strength."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:148
+msgid ""
+"A COMPANION IS ONE WHO SERVES: Companions are encouraged to take part in "
+"active service for those in need."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:150
+msgctxt "TSSF_COMPANIONS_EN.txt:150"
+msgid ""
+"In some areas Companions meet together for fellowship, prayer and mutual "
+"support."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:152
+msgid ""
+"A COMPANION IS ONE WHO SEEKS: Companions are encouraged to read and study "
+"the scriptures and to deepen their spiritual life through reading and "
+"studying."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:154
+msgid ""
+"Companions are asked to pray regularly for the Society of Saint Francis and "
+"to support its life and work through almsgiving."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:156
+msgid ""
+"Companions are asked to aim at simplicity of life, avoiding all waste and "
+"extravagance."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:158
+msgid "Companions are asked to help those in need."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:160
+msgid ""
+"Companions are asked to strive to bring others to the knowledge and love of "
+"Jesus Christ."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:162
+msgid ""
+"Companions are encouraged to subscribe to the ‘franciscan’ and to receive "
+"the accompanying world wide Intercession List of Brothers and Sisters and "
+"their engagements."
+msgstr ""
+
+#: TSSF_COMPANIONS_EN.txt:163
+msgid ""
+"Information about becoming a Companion can be obtained from the Secretary to "
+"the Companions of St Francis, Sr Liz CSF, 38, Drury Street, Metheringham, "
+"Lincolnshire, LN4 3EZ, telephone 01526 321115, email: companions "
+"@franciscans.org.uk"
+msgstr ""
