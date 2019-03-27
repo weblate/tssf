@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-04-21 15:38+0300\n"
-"PO-Revision-Date: 2019-03-27 21:02+0000\n"
+"PO-Revision-Date: 2019-03-27 21:13+0000\n"
 "Last-Translator: Asmo Koskinen <asmo.koskinen@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/tssf/companios/"
 "fi/>\n"
@@ -17,13 +17,13 @@ msgstr ""
 
 #: TSSF_COMPANIONS_EN.txt:2
 msgid "The Companions Of The Society Of St. Francis"
-msgstr "Pyhän Fransiskuksen sääntökunnan ystävät"
+msgstr "Pyhän Fransiskuksen sääntökunnan kumppanit"
 
 #: TSSF_COMPANIONS_EN.txt:4
 msgid "Who, What are the Companions of the Society of St. Francis"
 msgstr ""
-"Keitä ovat Pyhän Fransiskuksen sääntökunnan ystävät, mikä on Pyhän "
-"Fransiskuksen sääntökunnan ystävät"
+"Keitä ovat Pyhän Fransiskuksen sääntökunnan kumppanit, mikä on Pyhän "
+"Fransiskuksen sääntökunnan kumppanit"
 
 #: TSSF_COMPANIONS_EN.txt:6
 msgid ""
